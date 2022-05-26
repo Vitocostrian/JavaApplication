@@ -7,7 +7,7 @@ import javax.swing.UIManager;
 
 /**
 *
-* @author 
+* @author A NGQOBE 
 */
 
 public class ComputerApp extends JFrame{
